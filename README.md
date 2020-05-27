@@ -7,6 +7,4 @@ Jui-quick-sample
 ```
 git clone https://github.com/Kalph/Jui-quick-sample
 ```
-If you downloaded it, it's over.
-<br>
-<b>and now use jui framework quickly!!</b>
+If you downloaded it, it's over. <b>and now use jui framework quickly</b>
