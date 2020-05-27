@@ -1,6 +1,9 @@
 Jui-quick-sample
 ====================
-use jui framework by All necessary installations have been completed. 
+use jui framework by All necessary installations have been completed. <br>
+Used the vscode source code editor.
+
+<br>
 
 ## How Can Use?
 ```
