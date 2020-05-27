@@ -1,3 +1,6 @@
-# Jui-quick-sample
-use jui framework by All necessary installations have been completed. <br>
-now use jui framework quickly
+Jui-quick-sample
+====================
+<br>
+use jui framework by All necessary installations have been completed. <br><br>
+
+<b>now use jui framework quickly</b>
